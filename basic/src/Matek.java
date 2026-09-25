@@ -32,7 +32,7 @@ public class Matek {
 
         System.out.println(Math.ceil((Math.max(random1,random2) * 1.0) / Math.min(random1,random2)));
 
-        
+
 
 
 
